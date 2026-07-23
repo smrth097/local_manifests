@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://github.com/FroggerSpace" name="org" />
+    <project name="android_device_nothing_frogger" path="device/nothing/frogger" remote="org" revision="staging/lineage-23.2" />
+    <project name="proprietary_vendor_nothing_frogger" path="vendor/nothing/frogger" remote="org" revision="lineage-23.2" />
+    <project name="android_kernel_nothing_sm7635" path="kernel/nothing/sm7635" remote="org" revision="lineage-23.2" />
+    <project name="android_kernel_nothing_sm7635-modules" path="kernel/nothing/sm7635-modules" remote="org" revision="lineage-23.2" />
+    <project name="android_kernel_nothing_sm7635-devicetrees" path="kernel/nothing/sm7635-devicetrees" remote="org" revision="lineage-23.2" />
+</manifest>
